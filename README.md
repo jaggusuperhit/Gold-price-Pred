@@ -1,2 +1,2 @@
 # Gold-price-Pred
-MLP-20
+MLP-18
